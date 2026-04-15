@@ -9,15 +9,16 @@ This [project](Sales_and_Profitability_Analysis_Project.ipynb) provides a compre
 - Matplotlib
 - Seaborn
 
-### Project Steps:  
-1. [Data Import and Cleaning](Sales_and_Profitability_Analysis_Project.ipynb#Data-Import) - Initial data loading from Google Drive and handling missing values.
-2. [Data Merging](Sales_and_Profitability_Analysis_Project.ipynb#Merging-tables) - Combining datasets to create a unified data structure.
-4. [Key Business Metrics](Sales_and_Profitability_Analysis_Project.ipynb#High-Level-Business-Metrics-Overview) - Overview of total revenue, costs, and profit margins.
-5. [Category and Regional Analysis](Sales_and_Profitability_Analysis_Project.ipynb#Sales-Analysis-by-Category) - Detailed breakdown of performance by product types, countries, and regions.
-6. [Logistics and Channels Audit](Sales_and_Profitability_Analysis_Project.ipynb#Sales-Channel-Performance-Analysis) - Analyzing shipping times, lead times, and online vs. offline efficiency.
-7. [Correlation Analysis](Sales_and_Profitability_Analysis_Project.ipynb#Correlation-Between-Profit-and-Lead-Time) - Exploring the impact of logistics speed on overall profitability.
-8. [Sales Dynamics and Trends](Sales_and_Profitability_Analysis_Project.ipynb#Sales-Dynamics-and-Temporal-Trends) - Deep dive into temporal patterns, including yearly growth and weekly profit cycles.
-9. [Strategic Insights and Recommendations](Sales_and_Profitability_Analysis_Project.ipynb#General-Conclusion) - Final conclusions and business development strategies.
+### Project Steps:
+> Note: Links below will open the specific sections directly in **Google Colab**.
+1. [Data Import and Cleaning](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Data_Import) - Initial data loading from Google Drive and handling missing values.
+2. [Data Merging](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Merging_tables) - Combining datasets to create a unified data structure.
+4. [Key Business Metrics](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Key_Business_Metrics) - Overview of total revenue, costs, and profit margins.
+5. [Category and Regional Analysis](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Sales_Analysis_by_Category) - Detailed breakdown of performance by product types, countries, and regions.
+6. [Logistics and Channels Audit](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Sales_Channel_Performance_Analysis) - Analyzing shipping times, lead times, and online vs. offline efficiency.
+7. [Correlation Analysis](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Correlation_Between_Profit_and_Lead_Time) - Exploring the impact of logistics speed on overall profitability.
+8. [Sales Dynamics and Trends](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=Sales_Dynamics_and_Temporal_Trends) - Deep dive into temporal patterns, including yearly growth and weekly profit cycles.
+9. [Strategic Insights and Recommendations](https://colab.research.google.com/drive/1onG_35hBFDTuTw420TSpBrxMvivRfUbC#scrollTo=General_Conclusion) - Final conclusions and business development strategies.
 
 
 ### Key Business Insights:  
