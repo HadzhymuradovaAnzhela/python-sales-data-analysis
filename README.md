@@ -35,13 +35,13 @@ This [project](Sales_and_Profitability_Analysis_Project.ipynb) provides a compre
 
 ### Strategic Recommendations:  
 
-- **Scale Profit Leaders**  
-Prioritize the Cosmetics category by applying its high-margin cost models to other lines. Boost the Clothes segment through targeted marketing on its peak days. 
-- **Operational Efficiency**  
-  Conduct a supply chain audit for the Meat category to reduce high production costs and restore its profitability.  
-- **Premium Growth**  
-  Develop a dedicated sales channel for High-Price items to better capture value from the premium customer segment.  
-- **Regional Expansion**  
+💎**Scale Profit Leaders**  
+Prioritize the Cosmetics category by applying its high-margin cost models to other lines. Boost the Clothes segment through targeted marketing on its peak days.   
+⚙️**Operational Efficiency**  
+  Conduct a supply chain audit for the Meat category to reduce high production costs and restore its profitability.   
+🌟**Premium Growth**  
+  Develop a dedicated sales channel for High-Price items to better capture value from the premium customer segment.    
+📍**Regional Expansion**  
   Implement a market retention strategy for Eastern Europe to stabilize declining trends and launch a pilot project in Western Asia focusing on top-performing products.  
-- **Tactical Promotions**   
+🎯**Tactical Promotions**   
   Launch mid-week promotional campaigns on Tuesdays and Thursdays to balance weekly profit distribution.    
